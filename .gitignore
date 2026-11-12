@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.bak*
+alive_links.txt
+alive_config.json
